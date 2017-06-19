@@ -72,3 +72,7 @@ webpack.config.karma.js - a webpack config file for running tests.
 karma.conf.js - karma test runner config.
 tests.webpack.js - file for setting up which source files and tests to include and where to find them.
 ```
+
+### Link to Github
+
+[https://github.com/UzheykoS/FrontEndUnitTestExample.git]
