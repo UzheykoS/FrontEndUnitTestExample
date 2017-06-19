@@ -75,4 +75,4 @@ tests.webpack.js - file for setting up which source files and tests to include a
 
 ### Link to Github
 
-[https://github.com/UzheykoS/FrontEndUnitTestExample.git]
+[FrontEndUnitTestExample](https://github.com/UzheykoS/FrontEndUnitTestExample.git)
